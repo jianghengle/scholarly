@@ -14,3 +14,4 @@ setup_notes.md
 .ipynb_checkpoints
 *.ipynb
 .idea
+venv/
